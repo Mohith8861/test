@@ -1,0 +1,3 @@
+C:/Users/Lenovo/OneDrive/Desktop/code man version website/cmake-build-debug/CMakeFiles/code_man_version_website.dir
+C:/Users/Lenovo/OneDrive/Desktop/code man version website/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/OneDrive/Desktop/code man version website/cmake-build-debug/CMakeFiles/rebuild_cache.dir
